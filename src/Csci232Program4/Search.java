@@ -1,3 +1,6 @@
+//I formatted the input file as the first number is the key of the node, and the remaining numbers are nodes that it is connected to.
+
+
 package Csci232Program4;
 
 import java.io.File;

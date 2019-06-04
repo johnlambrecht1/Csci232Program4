@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa963ab2-af05-4de4-a2b2-ed9fb8035d24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Csci232Program4/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Csci232Program4/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Csci232Program4/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Csci232Program4/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Csci232Program4/Search.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Csci232Program4/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state>
+              <caret column="133" selection-start-column="133" selection-end-column="133" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,10 +25,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Csci232Program4/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
+            <state relative-caret-position="1445">
               <caret line="85" column="56" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -86,8 +83,8 @@
         <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/src/Csci232Program4/node.java" />
         <option value="$PROJECT_DIR$/src/Csci232Program4/Node.java" />
-        <option value="$PROJECT_DIR$/src/Csci232Program4/Search.java" />
         <option value="$PROJECT_DIR$/src/Csci232Program4/Graph.java" />
+        <option value="$PROJECT_DIR$/src/Csci232Program4/Search.java" />
       </list>
     </option>
   </component>
@@ -128,7 +125,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559678322571" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559678461213" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,6 +174,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -241,24 +239,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Csci232Program4/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Csci232Program4/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
+        <state relative-caret-position="1445">
           <caret line="85" column="56" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#88#89#0" expanded="true" />
             <element signature="e#107#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Csci232Program4/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="133" selection-start-column="133" selection-end-column="133" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
